@@ -40,11 +40,11 @@ function page_init(lib) {
 
         let pageCurrentFrame = clamp(currentScroll * (page.totalFrames - 1),0, page.totalFrames - 1);
 
-        console.log("new frame: "+pageCurrentFrame);
+        // console.log("new frame: "+pageCurrentFrame);
 
         _this.gotoAndStop(pageCurrentFrame);
 
-        console.log("current frame: "+ page.currentFrame)
+        // console.log("current frame: "+ page.currentFrame)
 
     }
 
@@ -67,6 +67,6 @@ function page_init(lib) {
     window.addEventListener("resize", onResize);
     window.addEventListener("scroll", onScroll);
 
-    console.log(lib);
+    // console.log(lib);
 
 }
