@@ -569,61 +569,61 @@ if (reversed == null) { reversed = false; }
 	this.instance_1 = new lib.rat_3_1("synched",0);
 	this.instance_1.setTransform(104.75,2994.65,1,1,0,0,0,49.5,23.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({y:2992.2},49).to({y:2749.65},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({y:2749.65},99).wait(1));
 
 	// rat_2
 	this.instance_2 = new lib.rat_2_1("synched",0);
 	this.instance_2.setTransform(94,2919.65,1,1,0,0,0,12,22);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({y:2917.3},49).to({y:2687.65},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({y:2657.75},99).wait(1));
 
 	// rat_1
 	this.instance_3 = new lib.rat_1_1("synched",0);
 	this.instance_3.setTransform(76.6,2840.4,1,1,0,0,0,11.5,19.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).to({y:2838.2},49).to({y:2624.4},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).to({y:2594.5},99).wait(1));
 
 	// rat_0
 	this.instance_4 = new lib.rat_0_1("synched",0);
 	this.instance_4.setTransform(109.1,2803.45,1,1,0,0,0,12,16.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({y:2801.1},49).to({y:2571.45},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({y:2558.45},99).wait(1));
 
 	// eyes_5
 	this.instance_5 = new lib.eyes_5("synched",0);
 	this.instance_5.setTransform(70.85,2577.5,1,1,0,0,0,12,4.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).to({y:2575.95},49).to({y:2425.5},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).to({y:2449.5},99).wait(1));
 
 	// eyes_4
 	this.instance_6 = new lib.eyes_4("synched",0);
-	this.instance_6.setTransform(79.9,2676.8,1,1,0,0,0,5.5,2.5);
+	this.instance_6.setTransform(79.9,2654.3,1,1,0,0,0,5.5,2.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).to({y:2675},49).to({y:2496.8},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_6).to({y:2496.8},99).wait(1));
 
 	// eyes_3
 	this.instance_7 = new lib.eyes_3("synched",0);
-	this.instance_7.setTransform(56.4,2682.85,1,1,0,0,0,5,2.5);
+	this.instance_7.setTransform(56.4,2675.35,1,1,0,0,0,5,2.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({y:2681.05},49).to({y:2502.85},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({y:2502.85},99).wait(1));
 
 	// eyes_2
 	this.instance_8 = new lib.eyes_2("synched",0);
-	this.instance_8.setTransform(76.9,2650.1,1,1,0,0,0,11.5,4);
+	this.instance_8.setTransform(76.9,2615.1,1,1,0,0,0,11.5,4);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_8).to({y:2648.3},49).to({y:2474.1},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_8).to({y:2474.1},99).wait(1));
 
 	// eyes_1
 	this.instance_9 = new lib.eyes_1("synched",0);
-	this.instance_9.setTransform(74.5,2699.2,1,1,0,0,0,4.5,1.5);
+	this.instance_9.setTransform(74.5,2691.7,1,1,0,0,0,4.5,1.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_9).to({y:2697.3},49).to({y:2511.2},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_9).to({y:2511.2},99).wait(1));
 
 	// eyes_0
 	this.instance_10 = new lib.eyes_0("synched",0);
 	this.instance_10.setTransform(96.9,2711.3,1,1,0,0,0,5,2);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_10).to({y:2709.4},49).to({y:2523.3},50).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_10).to({y:2515.3},99).wait(1));
 
 	// front_layer
 	this.instance_11 = new lib.front_layer_1("synched",0);
@@ -647,25 +647,25 @@ if (reversed == null) { reversed = false; }
 	this.instance_14 = new lib.water_1("synched",0);
 	this.instance_14.setTransform(494,1106.95,1,1,0,0,0,270.5,795);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_14).to({y:1506.95},99).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_14).to({y:1506.95},49).wait(51));
 
 	// rat_king
 	this.instance_15 = new lib.rat_king_1("synched",0);
 	this.instance_15.setTransform(480.1,260.75,1,1,0,0,0,130.5,155);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_15).to({y:655.75},99).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_15).to({y:655.75},49).wait(51));
 
 	// back_water
 	this.instance_16 = new lib.back_water("synched",0);
 	this.instance_16.setTransform(477.5,327.15,1,1,0,0,0,176,61);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_16).to({y:744.65},99).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_16).to({y:744.65},49).wait(51));
 
 	// back_wall
 	this.instance_17 = new lib.back_wall_1("synched",0);
 	this.instance_17.setTransform(480,1167.5,1,1,0,0,0,480,1167.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_17).to({y:1567.5},99).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_17).to({y:1567.5},49).wait(51));
 
 	this._renderFirstFrame();
 
@@ -705,8 +705,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/back_wall.png?1676361125207", id:"back_wall"},
-		{src:"images/project_1__dynamic_atlas_1.png?1676361125178", id:"project_1__dynamic_atlas_1"}
+		{src:"images/back_wall.png?1676361835047", id:"back_wall"},
+		{src:"images/project_1__dynamic_atlas_1.png?1676361835018", id:"project_1__dynamic_atlas_1"}
 	],
 	preloads: []
 };
