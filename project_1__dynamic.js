@@ -49,66 +49,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
 p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
 
 
-(lib.project_1__final__rat_0__layer = function() {
-	this.initialize(img.project_1__final__rat_0__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_1__layer = function() {
-	this.initialize(img.project_1__final__rat_1__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_2__layer = function() {
-	this.initialize(img.project_1__final__rat_2__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_3__layer = function() {
-	this.initialize(img.project_1__final__rat_3__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_eyes_0__layer = function() {
-	this.initialize(img.project_1__final__rat_eyes_0__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_eyes_1__layer = function() {
-	this.initialize(img.project_1__final__rat_eyes_1__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_eyes_2__layer = function() {
-	this.initialize(img.project_1__final__rat_eyes_2__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_eyes_3__layer = function() {
-	this.initialize(img.project_1__final__rat_eyes_3__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_eyes_4__layer = function() {
-	this.initialize(img.project_1__final__rat_eyes_4__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.project_1__final__rat_eyes_5__layer = function() {
-	this.initialize(img.project_1__final__rat_eyes_5__layer);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
 (lib.project_1__final__rat_king__layer = function() {
 	this.initialize(img.project_1__final__rat_king__layer);
 }).prototype = p = new cjs.Bitmap();
@@ -184,226 +124,6 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_1
 	this.instance = new lib.project_1__final__rat_king__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_eyes_5 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_eyes_5__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_eyes_4 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_eyes_4__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_eyes_3 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_eyes_3__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_eyes_2 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_eyes_2__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_eyes_1 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_eyes_1__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_eyes_0 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_eyes_0__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_3 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_3__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_2 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_2__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_1 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_1__layer();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3269);
-
-
-(lib.rat_0 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.project_1__final__rat_0__layer();
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
@@ -512,107 +232,47 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
-	// rat_3
-	this.instance = new lib.rat_3("synched",0);
+	// tunnel_bars
+	this.instance = new lib.tunnel_bars("synched",0);
 	this.instance.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(99).to({startPosition:0},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({y:1394.5},99).wait(1));
 
-	// rat_2
-	this.instance_1 = new lib.rat_2("synched",0);
+	// front_layer
+	this.instance_1 = new lib.front_layer("synched",0);
 	this.instance_1.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(99).to({startPosition:0},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({y:1394.5},99).wait(1));
 
-	// tunnel_bars
-	this.instance_2 = new lib.tunnel_bars("synched",0);
+	// maya
+	this.instance_2 = new lib.maya("synched",0);
 	this.instance_2.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({y:1490.5},99).wait(1));
 
-	// rat_1
-	this.instance_3 = new lib.rat_1("synched",0);
+	// water
+	this.instance_3 = new lib.water("synched",0);
 	this.instance_3.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(99).to({startPosition:0},0).wait(1));
-
-	// rat_0
-	this.instance_4 = new lib.rat_0("synched",0);
-	this.instance_4.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(99).to({startPosition:0},0).wait(1));
-
-	// rat_eyes_5
-	this.instance_5 = new lib.rat_eyes_5("synched",0);
-	this.instance_5.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(49).to({startPosition:0},0).to({y:1530.5},50).wait(1));
-
-	// rat_eyes_4
-	this.instance_6 = new lib.rat_eyes_4("synched",0);
-	this.instance_6.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(49).to({startPosition:0},0).to({y:1546.5},50).wait(1));
-
-	// rat_eyes_3
-	this.instance_7 = new lib.rat_eyes_3("synched",0);
-	this.instance_7.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).wait(49).to({startPosition:0},0).to({y:1522.5},50).wait(1));
-
-	// rat_eyes_2
-	this.instance_8 = new lib.rat_eyes_2("synched",0);
-	this.instance_8.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_8).wait(49).to({startPosition:0},0).to({y:1538.5},50).wait(1));
-
-	// rat_eyes_1
-	this.instance_9 = new lib.rat_eyes_1("synched",0);
-	this.instance_9.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(49).to({startPosition:0},0).to({y:1538.5},50).wait(1));
-
-	// rat_eyes_0
-	this.instance_10 = new lib.rat_eyes_0("synched",0);
-	this.instance_10.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_10).wait(49).to({startPosition:0},0).to({y:1522.5},50).wait(1));
-
-	// front_layer
-	this.instance_11 = new lib.front_layer("synched",0);
-	this.instance_11.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_11).to({y:1394.5},99).wait(1));
-
-	// maya
-	this.instance_12 = new lib.maya("synched",0);
-	this.instance_12.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_12).to({y:1490.5},99).wait(1));
-
-	// water
-	this.instance_13 = new lib.water("synched",0);
-	this.instance_13.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_13).to({y:1554.5},49).wait(51));
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).to({y:1554.5},49).wait(51));
 
 	// rat_king
-	this.instance_14 = new lib.rat_king("synched",0);
-	this.instance_14.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
+	this.instance_4 = new lib.rat_king("synched",0);
+	this.instance_4.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_14).to({y:1576.9},49).wait(51));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({y:1576.9},49).wait(51));
 
 	// back_water
-	this.instance_15 = new lib.back_water("synched",0);
-	this.instance_15.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
+	this.instance_5 = new lib.back_water("synched",0);
+	this.instance_5.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_15).to({y:1575.3},49).wait(51));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).to({y:1575.3},49).wait(51));
 
 	// back_wall
-	this.instance_16 = new lib.back_wall("synched",0);
-	this.instance_16.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
+	this.instance_6 = new lib.back_wall("synched",0);
+	this.instance_6.setTransform(480,1634.5,1,1,0,0,0,480,1634.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_16).wait(99).to({startPosition:0},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(99).to({startPosition:0},0).wait(1));
 
 	this._renderFirstFrame();
 
@@ -651,23 +311,13 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/project_1__final__back_wall__layer.png?1676355071374", id:"project_1__final__back_wall__layer"},
-		{src:"images/project_1__final__back_water__layer.png?1676355071374", id:"project_1__final__back_water__layer"},
-		{src:"images/project_1__final__front__layer.png?1676355071374", id:"project_1__final__front__layer"},
-		{src:"images/project_1__final__maya_layer.png?1676355071374", id:"project_1__final__maya_layer"},
-		{src:"images/project_1__final__rat_0__layer.png?1676355071374", id:"project_1__final__rat_0__layer"},
-		{src:"images/project_1__final__rat_1__layer.png?1676355071374", id:"project_1__final__rat_1__layer"},
-		{src:"images/project_1__final__rat_2__layer.png?1676355071374", id:"project_1__final__rat_2__layer"},
-		{src:"images/project_1__final__rat_3__layer.png?1676355071374", id:"project_1__final__rat_3__layer"},
-		{src:"images/project_1__final__rat_eyes_0__layer.png?1676355071374", id:"project_1__final__rat_eyes_0__layer"},
-		{src:"images/project_1__final__rat_eyes_1__layer.png?1676355071374", id:"project_1__final__rat_eyes_1__layer"},
-		{src:"images/project_1__final__rat_eyes_2__layer.png?1676355071374", id:"project_1__final__rat_eyes_2__layer"},
-		{src:"images/project_1__final__rat_eyes_3__layer.png?1676355071374", id:"project_1__final__rat_eyes_3__layer"},
-		{src:"images/project_1__final__rat_eyes_4__layer.png?1676355071374", id:"project_1__final__rat_eyes_4__layer"},
-		{src:"images/project_1__final__rat_eyes_5__layer.png?1676355071374", id:"project_1__final__rat_eyes_5__layer"},
-		{src:"images/project_1__final__rat_king__layer.png?1676355071374", id:"project_1__final__rat_king__layer"},
-		{src:"images/project_1__final__tunnel_bars__layer.png?1676355071374", id:"project_1__final__tunnel_bars__layer"},
-		{src:"images/project_1__final__water__layer.png?1676355071374", id:"project_1__final__water__layer"}
+		{src:"images/project_1__final__back_wall__layer.png?1676355780456", id:"project_1__final__back_wall__layer"},
+		{src:"images/project_1__final__back_water__layer.png?1676355780456", id:"project_1__final__back_water__layer"},
+		{src:"images/project_1__final__front__layer.png?1676355780456", id:"project_1__final__front__layer"},
+		{src:"images/project_1__final__maya_layer.png?1676355780456", id:"project_1__final__maya_layer"},
+		{src:"images/project_1__final__rat_king__layer.png?1676355780456", id:"project_1__final__rat_king__layer"},
+		{src:"images/project_1__final__tunnel_bars__layer.png?1676355780456", id:"project_1__final__tunnel_bars__layer"},
+		{src:"images/project_1__final__water__layer.png?1676355780456", id:"project_1__final__water__layer"}
 	],
 	preloads: []
 };
