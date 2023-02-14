@@ -647,30 +647,44 @@ if (reversed == null) { reversed = false; }
 	this.instance_14 = new lib.water_1("synched",0);
 	this.instance_14.setTransform(494,1106.95,1,1,0,0,0,270.5,795);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_14).to({y:1506.95},49).wait(51));
+	this.timeline.addTween(cjs.Tween.get(this.instance_14).to({y:1666.95},99).wait(1));
 
 	// rat_king
 	this.instance_15 = new lib.rat_king_1("synched",0);
 	this.instance_15.setTransform(480.1,260.75,1,1,0,0,0,130.5,155);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_15).to({y:655.75},49).wait(51));
+	this.timeline.addTween(cjs.Tween.get(this.instance_15).to({y:815.75},99).wait(1));
 
 	// back_water
 	this.instance_16 = new lib.back_water("synched",0);
 	this.instance_16.setTransform(477.5,327.15,1,1,0,0,0,176,61);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_16).to({y:744.65},49).wait(51));
+	this.timeline.addTween(cjs.Tween.get(this.instance_16).to({y:904.65},99).wait(1));
+
+	// Layer_3
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#23272C").s().p("EhQSAUtMAAAgpZMCgkAAAMAAAApZg");
+	this.shape.setTransform(506.95,2902.575);
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(100));
 
 	// back_wall
 	this.instance_17 = new lib.back_wall_1("synched",0);
 	this.instance_17.setTransform(480,1167.5,1,1,0,0,0,480,1167.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_17).to({y:1567.5},49).wait(51));
+	this.timeline.addTween(cjs.Tween.get(this.instance_17).to({y:1727.5},99).wait(1));
+
+	// Layer_2
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#42474D").s().p("EhLZAvgMAAAhe/MCWzAAAMAAABe/g");
+	this.shape_1.setTransform(480.625,302);
+
+	this.timeline.addTween(cjs.Tween.get(this.shape_1).wait(100));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,3034.9);
+p.nominalBounds = new cjs.Rectangle(-6.9,-2,1027.7,3037.1);
 
 
 // stage content:
@@ -695,7 +709,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(480,320,480,2714.9);
+p.nominalBounds = new cjs.Rectangle(473.1,318,547.6999999999999,2717.1);
 // library properties:
 lib.properties = {
 	id: '63EA5C9EA6D64C4B9DC4295379CE439C',
@@ -705,8 +719,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/back_wall.png?1676361835047", id:"back_wall"},
-		{src:"images/project_1__dynamic_atlas_1.png?1676361835018", id:"project_1__dynamic_atlas_1"}
+		{src:"images/back_wall.png?1676362140048", id:"back_wall"},
+		{src:"images/project_1__dynamic_atlas_1.png?1676362140010", id:"project_1__dynamic_atlas_1"}
 	],
 	preloads: []
 };
