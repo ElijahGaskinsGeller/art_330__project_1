@@ -1,0 +1,11 @@
+
+
+.container{
+    height: 1500vh !important;
+}
+
+.main-canvas{
+    height: 100vh !important;
+    position: fixed !important;
+}
+
