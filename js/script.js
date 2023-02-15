@@ -29,12 +29,14 @@ function page_init(lib) {
 
 
     function calcScrollEnd() {
-        return scrollStart - (page.nominalBounds.height) + (canvas.clientHeight) - (2 * padding);
+        // return scrollStart - (page.nominalBounds.height) + (canvas.clientHeight) - (2 * padding);
+        return scrollStart - (3269) + (canvas.clientHeight) - (2 * padding);
     }
 
     function onScroll(e) {
 
         let currentScroll = WindowScrollNormalPosition();
+        console.log(scrollEnd);
 
         page.y = lerp(scrollStart, scrollEnd, currentScroll);
 
