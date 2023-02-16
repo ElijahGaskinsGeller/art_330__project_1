@@ -33,10 +33,10 @@ lib.ssMetadata = [
 p.nominalBounds = new cjs.Rectangle(0,0,960,2335);
 
 
-(lib.front_layer__re_re_export__full_size = function() {
-	this.initialize(img.front_layer__re_re_export__full_size);
+(lib.front_layer__re_re_re_re_export = function() {
+	this.initialize(img.front_layer__re_re_re_re_export);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,3010,6179);
+p.nominalBounds = new cjs.Rectangle(0,0,1920,3941);
 
 
 (lib.maya = function() {
@@ -361,15 +361,15 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.front_layer__re_re_export__full_size();
-	this.instance.setTransform(0,0,0.3189,0.3189);
+	this.instance = new lib.front_layer__re_re_re_re_export();
+	this.instance.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,960,1970.6);
+p.nominalBounds = new cjs.Rectangle(0,0,960,1970.5);
 
 
 (lib.eyes_5 = function(mode,startPosition,loop,reversed) {
@@ -629,7 +629,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_11 = new lib.front_layer("synched",0);
 	this.instance_11.setTransform(480,2049.35,1,1,0,0,0,480,985.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_11).to({y:1727.35},99).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_11).to({y:1728.7},99).wait(1));
 
 	// maya
 	this.instance_12 = new lib.maya_1("synched",0);
@@ -719,9 +719,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/back_wall.png?1676504580094", id:"back_wall"},
-		{src:"images/front_layer__re_re_export__full_size.png?1676504580094", id:"front_layer__re_re_export__full_size"},
-		{src:"images/project_1__dynamic_atlas_1.png?1676504580053", id:"project_1__dynamic_atlas_1"}
+		{src:"images/back_wall.png?1676505622648", id:"back_wall"},
+		{src:"images/front_layer__re_re_re_re_export.png?1676505622648", id:"front_layer__re_re_re_re_export"},
+		{src:"images/project_1__dynamic_atlas_1.png?1676505622605", id:"project_1__dynamic_atlas_1"}
 	],
 	preloads: []
 };
